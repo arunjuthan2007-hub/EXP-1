@@ -74,3 +74,8 @@ b.  KCL:
 RESULT:
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
+
+<img width="1374" height="644" alt="image" src="https://github.com/user-attachments/assets/dcccfbe8-d7cf-417b-bfac-f2b496316f42" />
+
+<img width="1433" height="712" alt="image" src="https://github.com/user-attachments/assets/9ecc4adf-d33a-40c2-9ad1-8fd632568b97" />
+
